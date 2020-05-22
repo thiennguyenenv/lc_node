@@ -1,0 +1,27 @@
+{
+  "name": "lc_node",
+  "version": "1.0.0",
+  "description": "lc SDK for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: No test specified \" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiennguyenenv/lc_node.git"
+  },
+  "keywords": [
+    "lc",
+    "node.js"
+  ],
+  "author": "Thien NGUYEN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiennguyenenv/lc_node/issues"
+  },
+  "homepage": "https://github.com/thiennguyenenv/lc_node#readme",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
